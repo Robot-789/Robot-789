@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Robot-789
+- 👀 I’m interested in using DCC-EX and JMRI to control my railway layout
+- 💞️ I’m looking to collaborate on JMRI
+- 📫 How to reach me robert.squires@icloud.com
